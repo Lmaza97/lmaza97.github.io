@@ -31,11 +31,11 @@ github_username:  jekyll
 
 # Tema que volem
 # remote_theme: daviddarnes/alembic@main
-remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
 
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
